@@ -32,7 +32,7 @@ const Navbar = () => {
   }}>
         <div className="flex items-center">
         <CiMenuFries  className={`${Toggle?`text-white`:`text-gray-300`} mr-1 h-6 w-10 z-20`} onClick={toggleMenu}/>
-        <p className={`ml-2 ${Toggle?`text-white`:`text-gray-300`} text-3xl z-20`} >KELU</p> 
+        <p className={`ml-2 ${Toggle?`text-white`:`text-gray-300`} text-3xl z-20`} >CHANAKYA</p> 
         </div>
           <HiUserCircle className={`${Toggle?`text-white`:`text-gray-300`} h-10 w-10 mr-2`}/>
       </div>

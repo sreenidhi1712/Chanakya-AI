@@ -44,7 +44,7 @@ function FooterPart() {
         </div>
       </div>
       <div className="flex lap:justify-center justify-start">
-        <p className={`text-justify text-xs mx-3 ${Toggle ? `text-black` : `text-gray-300`} `}>kelu may display inaccurate info, including about people, so double-check its response.</p>
+        <p className={`text-justify text-xs mx-3 ${Toggle ? `text-black` : `text-gray-300`} `}>Chanakya-AI may display inaccurate info, including about people, so double-check its response.</p>
       </div>
     </div>
   );
