@@ -16,19 +16,34 @@ Responsive Design: Built using React.js and Tailwind CSS for a sleek and respons
 Scalable and Secure: Deployed on scalable infrastructure with robust security measures.
 </br>
 
-Usage
-
-Installation:
+<b>Usage</b>
+</br>
+</br>
+<b>Installation:</b>
+</br>
 npm create vite@latest
+</br>
 chooose react and Javascript
-
-Run the Application:
+</br>
+</br>
+<b>Run the Application:</b>
+</br>
 npm run dev
-
-Using News Wings:
+</br>
+</br>
+<b>Using News Wings:</b>
+</br>
 Browse through news articles categorized by topics or sources.
+</br>
 
-Technologies Used
+<b>Technologies Used</b>
+</br>
+Vite
+</br>
+React.js
+</br>
+Tailwind CSS
+</br>
 Vite
 React.js
 Tailwind CSS
