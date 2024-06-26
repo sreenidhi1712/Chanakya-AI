@@ -20,7 +20,7 @@ Usage
 </br>
 <b>Installation:</b>
 </br>
-<b>bash</b>
+bash
 </br>
 Copy code
 </br>
@@ -37,16 +37,17 @@ Copy code
 </br>
 GEMINI_API_KEY=your_gemini_api_key_here
 </br>
+
 <b>Run the Application:</b>
 </br>
-
 bash
 </br>
 Copy code
 </br>
 npm start
 </br>
-Interacting with Chanakya AI:
+
+<b>Interacting with Chanakya AI:</b>
 </br>
 Access the application via the provided URL.
 </br>
@@ -56,7 +57,7 @@ Explore personalized recommendations and insights generated in real-time.
 </br>
 
 
-Technologies Used
+<b>Technologies Used</b>
 </br>
 React.js
 </br>
