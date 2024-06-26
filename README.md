@@ -20,13 +20,13 @@ Usage
 Installation:
 </br>
 
-#bash
+<b>bash</b>
 </br>
 Copy code
 </br>
 npm install
 </br>
-$Configuration:
+<b>Configuration:</b>
 </br>
 
 Obtain API keys from Google's Gemini API and configure them in .env file:
@@ -37,7 +37,7 @@ Copy code
 </br>
 GEMINI_API_KEY=your_gemini_api_key_here
 </br>
-#Run the Application:
+<b>Run the Application:</b>
 </br>
 
 bash
