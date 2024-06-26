@@ -1,5 +1,6 @@
 
 <b>Chanakya AI</b>
+</br>
 Chanakya AI is a dynamic web application built with React.js and styled with Tailwind CSS, harnessing the power of Google's Gemini API for intelligent AI-driven interactions.
 
 Features
