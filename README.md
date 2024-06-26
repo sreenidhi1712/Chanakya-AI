@@ -17,50 +17,18 @@ Scalable and Secure: Deployed on scalable infrastructure with robust security me
 </br>
 
 Usage
-</br>
-<b>Installation:</b>
-</br>
-bash
-</br>
-Copy code
-</br>
-npm install
-</br>
 
-<b>Configuration:</b>
-</br>
-Obtain API keys from Google's Gemini API and configure them in .env file:
-</br>
-plaintext
-</br>
-Copy code
-</br>
-GEMINI_API_KEY=your_gemini_api_key_here
-</br>
+Installation:
+npm create vite@latest
+chooose react and Javascript
 
-<b>Run the Application:</b>
-</br>
-bash
-</br>
-Copy code
-</br>
-npm start
-</br>
+Run the Application:
+npm run dev
 
-<b>Interacting with Chanakya AI:</b>
-</br>
-Access the application via the provided URL.
-</br>
-Initiate conversations with Chanakya AI through the intuitive chat interface.
-</br>
-Explore personalized recommendations and insights generated in real-time.
-</br>
+Using News Wings:
+Browse through news articles categorized by topics or sources.
 
-
-<b>Technologies Used</b>
-</br>
+Technologies Used
+Vite
 React.js
-</br>
 Tailwind CSS
-</br>
-Google's Gemini API
