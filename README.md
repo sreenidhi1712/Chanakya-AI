@@ -15,20 +15,20 @@ Responsive Design: Built using React.js and Tailwind CSS for a sleek and respons
 </br>
 Scalable and Secure: Deployed on scalable infrastructure with robust security measures.
 </br>
+
 Usage
 </br>
-Installation:
+<b>Installation:</b>
 </br>
-
 <b>bash</b>
 </br>
 Copy code
 </br>
 npm install
 </br>
+
 <b>Configuration:</b>
 </br>
-
 Obtain API keys from Google's Gemini API and configure them in .env file:
 </br>
 plaintext
@@ -48,13 +48,14 @@ npm start
 </br>
 Interacting with Chanakya AI:
 </br>
-
 Access the application via the provided URL.
 </br>
 Initiate conversations with Chanakya AI through the intuitive chat interface.
 </br>
 Explore personalized recommendations and insights generated in real-time.
 </br>
+
+
 Technologies Used
 </br>
 React.js
