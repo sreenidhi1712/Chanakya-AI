@@ -31,10 +31,6 @@ chooose react and Javascript
 npm run dev
 </br>
 </br>
-<b>Using News Wings:</b>
-</br>
-Browse through news articles categorized by topics or sources.
-</br>
 
 <b>Technologies Used</b>
 </br>
