@@ -44,6 +44,3 @@ React.js
 </br>
 Tailwind CSS
 </br>
-Vite
-React.js
-Tailwind CSS
