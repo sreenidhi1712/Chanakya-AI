@@ -31,7 +31,7 @@ const Navbar = () => {
     
   }}>
         <div className="flex items-center">
-        <CiMenuFries  className={`${Toggle?`text-white`:`text-gray-300`} mr-1 h-6 w-10 z-20`} onClick={toggleMenu}/>
+        <CiMenuFries  className={`${Toggle?`text-white`:`text-gray-300`} mr-1 h-6 w-10 z-20 cursor-pointer`} onClick={toggleMenu}/>
         <p className={`ml-2 ${Toggle?`text-white`:`text-gray-300`} text-3xl z-20`} >CHANAKYA</p> 
         </div>
           <HiUserCircle className={`${Toggle?`text-white`:`text-gray-300`} h-10 w-10 mr-2`}/>
@@ -69,7 +69,7 @@ const Navbar = () => {
                 <p className={`${Toggle?`text-white`:`text-gray-300`} ml-3`}> Settings</p>
             </div>
             <div className="flex items-center mt-3">
-            <div className={`flex h-4 w-10 rounded-lg ml-1  transition-all ease-in duration-700 ${Toggle?` bg-gray-900`:`bg-slate-400`}`} onClick={()=>{
+            <div className={`flex h-4 w-10 rounded-lg ml-1 cursor-pointer  transition-all ease-in duration-700 ${Toggle?` bg-gray-900`:`bg-slate-400`}`} onClick={()=>{
 					setToggle(!Toggle)
 				}}>
 				<div className={`h-4 w-4 rounded-full transition-all ease-in duration-500 ${Toggle?`bg-white ml-0 `:`bg-black ml-6`}`}  ></div>

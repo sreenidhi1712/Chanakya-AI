@@ -40,7 +40,7 @@ function FooterPart() {
           style={{ minHeight: '2.5rem' }}
         ></textarea>
         <div className={`w-[18%] h-auto ${Toggle ? `bg-slate-400` : `bg-gray-700`} flex justify-end rounded-r-2xl items-center`}>
-          <IoMdSend onClick={() => { onSent() }} className={`h-10 w-6 mr-2 ${Toggle ? `text-white` : `text-gray-300`}`} />
+          <IoMdSend onClick={() => { onSent() }} className={`h-10 w-6 mr-2 cursor-pointer ${Toggle ? `text-white` : `text-gray-300`}`} />
         </div>
       </div>
       <div className="flex lap:justify-center justify-start">

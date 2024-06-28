@@ -44,21 +44,21 @@ function Maincontent() {
               <p className="text-4xl text-slate-400">How can I help you today?</p>
             </div>
             <div className="flex overflow-x-scroll py-10 hide-scrollbar mt-18 lapl:justify-center lapl:gap-2">
-              <div onClick={() => handleCardClick("Best Places to visit in Karnataka in monsoon season")} className={`h-40 w-60 ${Toggle ? 'bg-slate-400' : 'bg-gray-700'} mt-10 ml-3 flex-shrink-0 rounded-xl`}>
+              <div onClick={() => handleCardClick("Best Places to visit in Karnataka in monsoon season")} className={`h-40 w-60 ${Toggle ? 'bg-slate-400' : 'bg-gray-700'} mt-10 ml-3 flex-shrink-0 rounded-xl cursor-pointer`}>
                 <p className={`m-2 ${Toggle ? 'text-white' : 'text-gray-300'}`}>Best Places to visit in Karnataka in monsoon season</p>
                 <FaRegCompass className={`${Toggle ? 'text-white' : 'text-gray-300'} mt-20 ml-52`} />
               </div>
-              <div onClick={() => handleCardClick("Look up a Linux shell command for a specific task")} className={`h-40 w-60 ${Toggle ? 'bg-slate-400' : 'bg-gray-700'} mt-10 ml-3 flex-shrink-0 rounded-xl`}>
+              <div onClick={() => handleCardClick("Look up a Linux shell command for a specific task")} className={`h-40 w-60 ${Toggle ? 'bg-slate-400' : 'bg-gray-700'} mt-10 ml-3 flex-shrink-0 rounded-xl cursor-pointer`}>
                 <p className={`m-2 ${Toggle ? 'text-white' : 'text-gray-300'}`}>Look up a Linux shell command for a specific task</p>
                 <FaCode className={`${Toggle ? 'text-white' : 'text-gray-300'} mt-20 ml-52`} />
               </div>
-              <div onClick={() => handleCardClick("How not to join SAIT college")} className={`h-40 w-60 ${Toggle ? 'bg-slate-400' : 'bg-gray-700'} mt-10 ml-3 flex-shrink-0 rounded-xl`}>
+              <div onClick={() => handleCardClick("How not to join SAIT college")} className={`h-40 w-60 ${Toggle ? 'bg-slate-400' : 'bg-gray-700'} mt-10 ml-3 flex-shrink-0 rounded-xl cursor-pointer`}>
                 <p className={`m-2 ${Toggle ? 'text-white' : 'text-gray-300'}`}>plan a relaxing day</p>
                 <PiNotePencilFill className={`${Toggle ? 'text-white' : 'text-gray-300'} mt-24 ml-52`} />
               </div>
-              <div onClick={() => handleCardClick("How to get job without skills")} className={`h-40 w-60 ${Toggle ? 'bg-slate-400' : 'bg-gray-700'} mt-10 ml-3 flex-shrink-0 rounded-xl`}>
+              <div onClick={() => handleCardClick("How to get job without skills")} className={`h-40 w-60 ${Toggle ? 'bg-slate-400' : 'bg-gray-700'} mt-10 ml-3 flex-shrink-0 rounded-xl cursor-pointer`}>
                 <p className={`m-2 ${Toggle ? 'text-white' : 'text-gray-300'}`}>Best Exercise to increase productivity</p>
-                <PiNotePencilFill className={`${Toggle ? 'text-white' : 'text-gray-300'} mt-24 ml-52`} />
+                <PiNotePencilFill className={`${Toggle ? 'text-white' : 'text-gray-300'} mt-20 ml-52`} />
               </div>
             </div>
           </>
