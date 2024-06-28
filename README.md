@@ -1,8 +1,42 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<b>Chanakya AI</b>
+</br>
+Chanakya AI is a dynamic web application built with React.js and styled with Tailwind CSS, harnessing the power of Google's Gemini API for intelligent AI-driven interactions.
+</br>
+Features
+</br>
+Gemini API Integration: Utilizes Google's Gemini API for advanced AI functionalities.
+</br>
+Natural Language Processing: Engage in natural language conversations for querying information and insights.
+</br>
+Personalized Recommendations: Receive customized recommendations based on user preferences and historical data.
+</br>
+Responsive Design: Built using React.js and Tailwind CSS for a sleek and responsive user interface.
+</br>
+Scalable and Secure: Deployed on scalable infrastructure with robust security measures.
+</br>
 
-Currently, two official plugins are available:
+<b>Usage</b>
+</br>
+</br>
+<b>Installation:</b>
+</br>
+npm create vite@latest
+</br>
+chooose react and Javascript
+</br>
+</br>
+<b>Run the Application:</b>
+</br>
+npm run dev
+</br>
+</br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<b>Technologies Used</b>
+</br>
+Vite
+</br>
+React.js
+</br>
+Tailwind CSS
+</br>

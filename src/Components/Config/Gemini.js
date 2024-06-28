@@ -6,7 +6,7 @@
  * See the getting started guide for more information
  * https://ai.google.dev/gemini-api/docs/get-started/node
  * 
- * const apiKey = "AIzaSyDiDMqbfVwbA-43HhFA6XfrJECOSM_O4jo";
+ * const apiKey = "Add your Api key";
  */
 
 
