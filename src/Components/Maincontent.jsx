@@ -52,11 +52,11 @@ function Maincontent() {
                 <p className={`m-2 ${Toggle ? 'text-white' : 'text-gray-300'}`}>Look up a Linux shell command for a specific task</p>
                 <FaCode className={`${Toggle ? 'text-white' : 'text-gray-300'} mt-20 ml-52`} />
               </div>
-              <div onClick={() => handleCardClick("How not to join SAIT college")} className={`h-40 w-60 ${Toggle ? 'bg-slate-400' : 'bg-gray-700'} mt-10 ml-3 flex-shrink-0 rounded-xl cursor-pointer`}>
+              <div onClick={() => handleCardClick("plan a relaxing day")} className={`h-40 w-60 ${Toggle ? 'bg-slate-400' : 'bg-gray-700'} mt-10 ml-3 flex-shrink-0 rounded-xl cursor-pointer`}>
                 <p className={`m-2 ${Toggle ? 'text-white' : 'text-gray-300'}`}>plan a relaxing day</p>
                 <PiNotePencilFill className={`${Toggle ? 'text-white' : 'text-gray-300'} mt-24 ml-52`} />
               </div>
-              <div onClick={() => handleCardClick("How to get job without skills")} className={`h-40 w-60 ${Toggle ? 'bg-slate-400' : 'bg-gray-700'} mt-10 ml-3 flex-shrink-0 rounded-xl cursor-pointer`}>
+              <div onClick={() => handleCardClick("Best Exercise to increase productivity")} className={`h-40 w-60 ${Toggle ? 'bg-slate-400' : 'bg-gray-700'} mt-10 ml-3 flex-shrink-0 rounded-xl cursor-pointer`}>
                 <p className={`m-2 ${Toggle ? 'text-white' : 'text-gray-300'}`}>Best Exercise to increase productivity</p>
                 <PiNotePencilFill className={`${Toggle ? 'text-white' : 'text-gray-300'} mt-20 ml-52`} />
               </div>
