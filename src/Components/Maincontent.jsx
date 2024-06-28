@@ -53,11 +53,11 @@ function Maincontent() {
                 <FaCode className={`${Toggle ? 'text-white' : 'text-gray-300'} mt-20 ml-52`} />
               </div>
               <div onClick={() => handleCardClick("How not to join SAIT college")} className={`h-40 w-60 ${Toggle ? 'bg-slate-400' : 'bg-gray-700'} mt-10 ml-3 flex-shrink-0 rounded-xl`}>
-                <p className={`m-2 ${Toggle ? 'text-white' : 'text-gray-300'}`}>How not to join SAIT college</p>
+                <p className={`m-2 ${Toggle ? 'text-white' : 'text-gray-300'}`}>plan a relaxing day</p>
                 <PiNotePencilFill className={`${Toggle ? 'text-white' : 'text-gray-300'} mt-24 ml-52`} />
               </div>
               <div onClick={() => handleCardClick("How to get job without skills")} className={`h-40 w-60 ${Toggle ? 'bg-slate-400' : 'bg-gray-700'} mt-10 ml-3 flex-shrink-0 rounded-xl`}>
-                <p className={`m-2 ${Toggle ? 'text-white' : 'text-gray-300'}`}>How to get job without skills</p>
+                <p className={`m-2 ${Toggle ? 'text-white' : 'text-gray-300'}`}>Best Exercise to increase productivity</p>
                 <PiNotePencilFill className={`${Toggle ? 'text-white' : 'text-gray-300'} mt-24 ml-52`} />
               </div>
             </div>
